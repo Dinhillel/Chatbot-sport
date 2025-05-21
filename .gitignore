@@ -1,0 +1,10 @@
+# Ignore environments and cache
+.venv/
+__pycache__/
+
+# Ignore data and system files
+Dataset/
+desktop.ini
+
+# Ignore env variables
+.env
